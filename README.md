@@ -1,8 +1,8 @@
 # Hey there, I´m Felipe! 👋
 
-🇧🇷 Born in Belém, Brazil
-💻 Passionate Front End Developer
-❤️ In love with JavaScript
+🇧🇷 Born in Belém, Brazil<br />
+💻 Passionate Front End Developer<br />
+❤️ In love with JavaScript<br />
 🌐 Digital Marketing Enthusiast
 
 
