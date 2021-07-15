@@ -9,6 +9,6 @@
 
 
 # Find me elsewhere 🌎
-• <a href="https://felipecatete.com/" target="_blank">My personal website</a><br />
-• <a href="https://www.linkedin.com/in/felipe-catete/" target="_blank">LinkedIn</a><br />
-• <a href="mailto:catetedev@gmail.com" target="_blank">E-mail</a>
+• <a href="https://felipecatete.com/">My personal website</a><br />
+• <a href="https://www.linkedin.com/in/felipe-catete/">LinkedIn</a><br />
+• <a href="mailto:catetedev@gmail.com">E-mail</a>
