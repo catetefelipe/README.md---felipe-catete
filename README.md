@@ -2,8 +2,9 @@
 
 💻 Passionate Front End Developer<br />
 ❤️ In love with JavaScript<br />
-🇧🇷 Born in Belém, Brazil<br />
-🌐 Digital Marketing Enthusiast
+🌐 Digital Marketing Enthusiast<br />
+🇧🇷 Born in Belém, Brazil
+
 
 
 # Find me elsewhere 🌎
