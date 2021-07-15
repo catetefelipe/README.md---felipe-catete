@@ -2,7 +2,7 @@
 
 💻 Passionate Front End Developer<br />
 ❤️ In love with JavaScript<br />
-📋 Always looking to improve my standardization and agility skills
+📋 Always looking to improve my standardization and agility skills<br />
 🌐 Digital Marketing Enthusiast<br />
 🇧🇷 Born in Belém, Brazil
 
