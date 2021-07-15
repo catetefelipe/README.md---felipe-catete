@@ -1,10 +1,9 @@
 # Hey there, I´m Felipe! 👋
 
 💻 Passionate Front End Developer<br />
-❤️ In love with JavaScript<br />
+❤️ In love with JavaScript and React<br />
 📋 Always looking to improve my standardization and agility skills<br />
-🌐 Digital Marketing Enthusiast<br />
-🇧🇷 Born in Brazil
+🌐 Digital Marketing Enthusiast
 
 <br />
 
