@@ -6,8 +6,6 @@
 🇧🇷 Born in Belém, Brazil
 
 <br />
-<br />
-<br />
 
 
 # Find me elsewhere 🌎
