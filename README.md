@@ -2,7 +2,7 @@
 
 💻 Passionate Front End Developer<br />
 ❤️ In love with JavaScript and React<br />
-📋 Always looking to improve my standardization and agility coding skills<br />
+🧠 Hungry for knowledge<br />
 🌐 Digital Marketing Enthusiast
 
 <br />
