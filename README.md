@@ -3,7 +3,7 @@
 💻 Passionate Front End Developer<br />
 ❤️ In love with JavaScript and React<br />
 🧠 Hungry for knowledge<br />
-🌐 Digital Marketing Enthusiast
+🌐 SEO Enthusiast
 
 <br />
 
