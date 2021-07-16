@@ -1,6 +1,6 @@
 # Hey there, I´m Felipe! 👋
 
-💻 Passionate Front End Developer<br />
+🎨 Passionate Front End Developer<br />
 ❤️ In love with JavaScript and React<br />
 🧠 Hungry for knowledge<br />
 🌐 SEO Enthusiast
